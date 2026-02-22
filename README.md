@@ -1,4 +1,15 @@
-﻿# Quantum-Market-VQE
+
+Quantum-Market-VQE/
+│
+├── Quantum_Market_VQE_Signals.ipynb
+├── quantum_market_vqe_signals.py
+├── README.md
+└── .gitignore 
+ 
+ 
+ 
+ 
+ # Quantum-Market-VQE
 
 # Quantum Market VQE Signals
 
@@ -23,3 +34,4 @@ Experimental quantum-inspired market model using Qiskit VQE.
 - yfinance
 - numpy
 - matplotlib
+
